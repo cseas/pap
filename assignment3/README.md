@@ -6,5 +6,5 @@
 >- **setMarks**: To assign marks to the student.
 [Solution](1.py)
 
->3. Using datetime module, write a program that gets the current date and prints the day of the week.
-[Solution](3.py)
+>2. Using datetime module write a program that gets the current date and prints the day of the week.
+[Solution](2.py)
