@@ -1,3 +1,4 @@
+# Note on Google Geocoding
 import requests
 
 MAPS_API_URL = "https://maps.googleapis.com/maps/api/geocode/json?key=API_KEY"
